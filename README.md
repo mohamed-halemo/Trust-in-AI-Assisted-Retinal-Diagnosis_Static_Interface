@@ -118,7 +118,7 @@ This Streamlit application provides interactive interfaces for both clinicians a
 *Main clinician dashboard with patient management and image upload*
 
 ### 🔍 Clinician Dashboard - AI Prediction Results
-![Clinician Portal 2](Clincian_Portal_2.png)
+![Clinician Portal 2](images/Clincian_Portal_2.png)
 *AI prediction results with trust score calculation and component breakdown*
 
 ### 📈 Clinician Dashboard - Probability Distribution
